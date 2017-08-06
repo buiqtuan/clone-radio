@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>RadioPlayer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7B79E7E01F0BDEFD00E0404A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B79E7F71F0BDEFD00E0404A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7B79E8021F0BDEFD00E0404A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
